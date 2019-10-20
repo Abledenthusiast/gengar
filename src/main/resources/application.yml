@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: gengar
+  server:
+    port: 8081

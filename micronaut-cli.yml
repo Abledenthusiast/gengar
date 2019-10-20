@@ -1,0 +1,6 @@
+
+profile: service
+defaultPackage: com.abledenthusiast.gengar.server
+---
+testFramework: junit
+sourceLanguage: java

@@ -1,6 +1,5 @@
 package com.abledenthusiast.gengar.scheduling;
 
-
 import java.util.concurrent.DelayQueue;
 
 public class Scheduler {
